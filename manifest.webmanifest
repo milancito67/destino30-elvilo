@@ -1,0 +1,19 @@
+{
+  "name": "DESTINO 30 · ELVILO",
+  "short_name": "DESTINO 30",
+  "description": "30 días de reflexión, carácter y decisión inspirados en No eres una opción, eres destino.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11120f",
+  "theme_color": "#11120f",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
